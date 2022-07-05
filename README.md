@@ -2,4 +2,4 @@
 
 MONUMENTS
 
-https://viet4.github.io/PRO-C178/
+https://viet4.github.io/PRO-C178/main.html
